@@ -189,4 +189,3 @@ File giọng đọc được lưu tại `output/voice.wav`.
 ## Tác giả
 
 **Huy** — HERMES-AGENT project  
-Cảm hứng từ: Long Đình (@trolap_bot)
