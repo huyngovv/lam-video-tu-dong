@@ -1,0 +1,10 @@
+2026-06-19 12:42:26,505 | INFO | HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-19 12:42:58,178 | INFO | HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-19 12:49:57,719 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-19 12:49:57,760 | INFO | SUCCESS | Topic=AI phân loại rác bằng camera | Time=111.8s
+2026-06-19 12:56:53,482 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-19 12:56:53,488 | INFO | SUCCESS | Topic=Top 3 repo GitHub hot nhất tuần | Time=74.94s
+2026-06-19 16:21:49,848 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-19 16:21:49,851 | INFO | SUCCESS | Topic=app tài xỉu uy tín | Time=39.03s
+2026-06-19 16:23:56,721 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-19 16:23:56,723 | INFO | SUCCESS | Topic=thống kê top 5 app tài xỉu lên chơi | Time=17.37s
